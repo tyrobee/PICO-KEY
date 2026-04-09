@@ -4,7 +4,7 @@ This passkey PICO KEY is made so that the user can login without using a passwor
 
 
 ## SCHEMATICS
-![S1](PHOTOS/S1.png)
+![S1](Photos/S1.png)
 
 ## PCB
-![pq](PHOTOS/pq.png)
+![pq](Photos/pq.png)
